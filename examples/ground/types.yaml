@@ -1,8 +1,8 @@
 agentTypes:
   - type: ground
     roadmap: "output/roadmapTypeGround.yaml"
-    v_max: 0.48 # m/s
-    a_max: 0.5 # m/s^2
+    v_max: 0.5 # m/s
+    a_max: 2.0 # m/s^2
     shape:
       type: cylinder
       radius: 0.2 # m
